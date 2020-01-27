@@ -1,1 +1,6 @@
 
+sudo -i nautilus
+
+Set name for your terminal:
+wmctrl -r :ACTIVE: -N "MyWindowTitle"
+
